@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js", // This is your start script
-    "build": "npm install && npm run build-assets"
+   "build": "npm run build" // Use your appropriate build command here
+
   },
   "keywords": [],
   "author": "",
